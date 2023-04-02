@@ -2,7 +2,7 @@
 
 ## Introduction
 
-How are you? My name is Christopher and I have worked in the field of text manipulations, semi-structured data, and databases for many decades. I started worked solely with Perl, but in 2019 I returned to University to study data science, NoSql databases and machine learning. Sadly the majority of the scripts I have written in my career were owned by the company I worked for, so now I want to create some new projects to showcase my skills, whether they are tiny little snippets or big study projects, watch this site for some cool things coming.
+My name is Christopher and I have worked in the field of script writing with Perl and Python, text manipulation, semi-structured data, and databases for many decades. I started worked solely with Perl, but in 2019 I returned to University to study data science, NoSql databases and machine learning. Sadly the majority of the scripts I have written in my career were owned by the company I worked for, so now I want to create some new projects to showcase my skills, whether they are tiny little snippets or big study projects, watch this site for some cool things coming.
 
 My hobbies outside are playing games of all kinds, whether video games, board games or card games like poker, and watching sports like baseball, hockey and American football.
 
