@@ -3,6 +3,8 @@
 <div align="center">
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-D62598?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rowevscolumn.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ChristopherJamesRowe)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrchristopherrowe@gmail.com)
 
 </div>
 
@@ -502,9 +504,9 @@ I'm always open to interesting conversations and opportunities!
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rowevscolumn)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/ChristopherJamesRowe)
 [![Portfolio](https://img.shields.io/badge/Portfolio-D62598?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rowevscolumn.github.io)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mrchristopherrowe@gmail.com)
 
 </div>
 
